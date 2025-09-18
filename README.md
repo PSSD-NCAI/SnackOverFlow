@@ -126,7 +126,7 @@ POST   /api/v1/customers               # Register customer
 - Max file size: 5MB
 - Supported formats: JPEG, PNG, SVG
 
-### Bonus
+### ✨ Bonus
 - Add caching layer when listing menu items
 
 ### 📝 Submission
