@@ -128,9 +128,9 @@ POST   /api/v1/customers               # Register customer
 
 ### 📝 Submission
 1. Push your code to a GitHub **private** repository, and assign this account as a collaborator. To assign, go to repository's settings > Collaborators > Add people and search for **PSSD-NCAI**.
-2. Provide a project documentation, and include any assumptions made if any
-3. Ensure `docker-compose up` starts the entire system
-4. Provide API requests collection
+2. Provide a project documentation, and include any assumptions made.
+3. Ensure `docker-compose up` starts the entire system.
+4. Provide API requests collection.
 
 Remember, we value **quality over quantity**. A well-designed **partial** solution with clear documentation of what remains is better than a complete but **poorly** architected system.
 
