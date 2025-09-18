@@ -126,6 +126,9 @@ POST   /api/v1/customers               # Register customer
 - Max file size: 5MB
 - Supported formats: JPEG, PNG, SVG
 
+### Bonus
+- Add caching layer when listing menu items
+
 ### 📝 Submission
 1. Push your code to a GitHub **private** repository, and assign this account as a collaborator. To assign, go to repository's settings > Collaborators > Add people and search for **PSSD-NCAI**.
 2. Provide a project documentation, and include any assumptions made.
