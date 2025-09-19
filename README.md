@@ -123,6 +123,7 @@ POST   /api/v1/customers               # Register customer
 - Handle duplicate messages (idempotency)
 
 ### Object Storage Requirements
+- Server: MinIO
 - Max file size: 5MB
 - Supported formats: JPEG, PNG, SVG
 
