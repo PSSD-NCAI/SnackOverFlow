@@ -130,7 +130,7 @@ POST   /api/v1/customers               # Register customer
 - Add caching layer when listing menu items
 
 ### 📝 Submission
-1. Push your code to a GitHub **private** repository, and assign this account as a collaborator. To assign, go to repository's settings > Collaborators > Add people and search for **PSSD-NCAI**.
+1. Push your code to a GitHub **private** repository, and assign this account as a collaborator. To assign, go to repository's settings > Collaborators > Add people and search for **NCAI-SWE**.
 2. Provide a project documentation, and include any assumptions made.
 3. Ensure `docker-compose up` starts the entire system.
 4. Provide API requests collection.
